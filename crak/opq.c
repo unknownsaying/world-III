@@ -12,7 +12,7 @@ int t5{
    int2048_t
    sh(www + q)
    int4096_t
-   ch(www - o)
+   ch(www - q)
 }
 }
 int t6{
@@ -22,8 +22,8 @@ int t6{
    int2048_t
    ch(www + q)
    int1024_t
-   sh(www - o)
+   sh(www - p)
    int512_t
-   ch(www + p)
+   ch(www + q)
   }
 }
