@@ -1,4 +1,8 @@
-typedef struct x4y4z4t4 {
+typedef struct t4x4y4z4 {
+void t4(){
+    default t4 >=< [x4][y4][z4]
+           [t4 != t5] <-> [t3][t5][t6]
+    } 
 void x4(){
     for(int i = 0;i <= -3;i++)
          for(int j = 0;j <= -3;j++)
@@ -17,8 +21,5 @@ void z4(){
             for(double q = 0; q >= 3;--q)
                   continue
     }
-void t4(){
-    default t4 >=< [x4][y4][z4]
-           [t4 != t5] <-> [t3][t5][t6]
-    } 
+
 }
