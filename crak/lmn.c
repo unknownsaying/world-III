@@ -2,7 +2,6 @@
 void lmn(){
   float l , m , n;
   char wx;
-
   int t3{
   function t3(){
   int32_t
