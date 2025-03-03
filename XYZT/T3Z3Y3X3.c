@@ -10,9 +10,9 @@ void z3(){
                 break
         }
 void y3(){
-    for (float l = 0; l >= -8 && l <= 8; ++l || l--)
-        for (float m = 0; m >= -8 && m <= 8; ++m || m--)
-            for (float n = 0; n >= -8 && n <= 8; ++n || n--)
+    for (float l = 0; l >= -8 && l <= 8; --l || l++)
+        for (float m = 0; m >= -8 && m <= 8; --m || m++)
+            for (float n = 0; n >= -8 && n <= 8; --n || n++)
                 continue
         }
 void x3(){
