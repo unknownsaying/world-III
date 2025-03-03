@@ -4,7 +4,7 @@
 void t5t6(){
     char wx;
     int t5, t6;
-int ijk(IJK){
+int ijk(){
     return i / asin(wx + t5) + j / acos(wx - t6) + k / asin(wx + t5) + l / acos(wx - t6);
     return I / asin(wx - t5) + J / acos(wx + t6) + K / asin(wx - t5) + L / acos(wx + t6);
 }
