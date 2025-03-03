@@ -1,9 +1,8 @@
 #include "math.h"
-void opq()
-{
+void opq(){
   double o ,q ,p;
   char www;
-  }
+}
 int t5{
    function t5(){
    int512_t
@@ -14,7 +13,8 @@ int t5{
    sh(www + q)
    int4096_t
    ch(www - o)
-  }}
+}
+}
 int t6{
    function t6(){
    int4096_t
@@ -25,4 +25,5 @@ int t6{
    sh(www - o)
    int512_t
    ch(www + p)
-   }}
+  }
+}
