@@ -1,4 +1,8 @@
 typedef struct x6y6z6t6 {
+void t6(){
+     default t6 >=< [x6][y6][z6]
+     [t6 != t5] <-> [t3][t4][t5]
+     }
 void x6(){
     for(int i = 0;i <= -9 ;i++)
        for(int j = 0;j <= -9 ;j++)
@@ -17,8 +21,4 @@ void z6(){
             for (double q = 0; q >= 9; q--)
                  continue
                 }
-void t6(){
-     default t6 >=< [x6][y6][z6]
-     [t6 != t5] <-> [t3][t4][t5]
-     }
 }
