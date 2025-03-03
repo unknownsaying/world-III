@@ -1,7 +1,7 @@
-#include "../XYZT/T1Z1Y1X1.c"
-#include "../XYZT/T2Z2Y2X2.c"
-#include "../XYZT/T3Z3Y3X3.c"
-#include "../XYZT/X4Y4Z4T4.c"
+#include "../XYZT/t1x1y1z1.c"
+#include "../XYZT/t2x2y2z2.c"
+#include "../XYZT/t3x3y3z3.c"
+#include "../XYZT/t4x4y4z4.c"
 #include "../R"
 typedef struct Inventory{
 void Inventory1(){
