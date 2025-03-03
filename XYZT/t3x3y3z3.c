@@ -4,9 +4,9 @@ void t3(){
             [t3 != t4] <-> [t1][t2][t4]
         }
 void x3(){
-    for (double o = 0; o <= 8; --o)
-        for (double p = 0; p <= 8; --p)
-           for (double q = 0; q <= 8; --q)
+    for (int i = 0; i <= -8; i++)
+        for (int j = 0; j <= -8; j++)
+            for (int k = 0; k <= -8; k++)
                 break
         }
 void y3(){
@@ -16,9 +16,9 @@ void y3(){
                 continue
         }
 void z3(){
-    for (int i = 0; i <= -8; i++)
-        for (int j = 0; j <= -8; j++)
-            for (int k = 0; k <= -8; k++)
+    for (double o = 0; o <= 8; --o)
+        for (double p = 0; p <= 8; --p)
+           for (double q = 0; q <= 8; --q)
                 break
         }
 }
