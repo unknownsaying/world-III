@@ -1,4 +1,8 @@
-typedef struct x5y5z5t5 {
+typedef struct t5x5y5z5 {
+void t5(){
+    default t5 >=< [x5][y5][z5]
+    [t5 != t5] <-> [t3][t4][t6]       
+          }
 void x5(){
     for(int i = 0;i <= -6 ;i++)
        for(int j = 0;j <= -6 ;j++)
@@ -17,8 +21,5 @@ void z5(){
             for (double q = 0; q >= 6; q--)
                 continue
             }
-void t5(){
-    default t5 >=< [x5][y5][z5]
-    [t5 != t5] <-> [t3][t4][t6]       
-          }
+
 }
