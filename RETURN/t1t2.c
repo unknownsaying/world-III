@@ -5,7 +5,6 @@
 #include "math.h"
 void t1t2(){
     char wx;
-    double sin,cos;
     int t1 , t2;
 int ABCD(abcd){
     return A * sin(wx + t1) + B * cos(wx - t2) + C * sin(wx + t1) + D * cos(wx - t2);
