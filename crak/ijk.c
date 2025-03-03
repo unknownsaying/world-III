@@ -12,7 +12,8 @@ function t1(){
     sin(wx + k)
     int16_t
     cos(wx - k)
-}}
+}
+}
 int t2{
 function t2(){
     int16_t
