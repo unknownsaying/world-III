@@ -12,9 +12,9 @@ void y4(){
                   break
     }
 void z4(){
-    for(double o = 0; o <= -3; o++)
-        for(double p = 0; p <= -3; p++)
-            for(double q = 0; q <= -3;q++)
+    for(double o = 0; o >= 3; --o)
+        for(double p = 0; p >= 3; --p)
+            for(double q = 0; q >= 3;--q)
                   continue
     }
 void t4(){
