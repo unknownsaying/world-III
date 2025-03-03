@@ -1,4 +1,3 @@
-
 #include "math.h"
 void lmn(){
   float l , m , n;
