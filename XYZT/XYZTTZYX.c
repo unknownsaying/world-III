@@ -1,3 +1,4 @@
+#include "../XYZT"
 typedef struct {
     void X Y Z T(){
          x1y1z1t1<->x2y2z2t2<->x3y3z3t3
