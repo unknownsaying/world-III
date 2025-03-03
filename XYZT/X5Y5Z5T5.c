@@ -6,9 +6,9 @@ void x5(){
               break
             }
 void y5(){
-     for (float l = 0;l >= -6 && l <= 6; l++ || --l)
-         for(float m = 0;m >= -6 && m <= 6; m++ || --m)
-             for (float n = 0;n >= -6 && n <= 6; n++ || --n)
+     for (float l = 0;l >= -6 && l <= 6; --l || l++)
+         for(float m = 0;m >= -6 && m <= 6; --m || m++)
+             for (float n = 0;n >= -6 && n <= 6; --n || n++)
                  continue
                 }
 void z5(){
