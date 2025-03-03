@@ -2,6 +2,7 @@
 void lmn(){
   float l , m , n;
   char wx;
+}
   int t3{
   function t3(){
   int32_t
@@ -13,6 +14,7 @@ void lmn(){
   int256_t
   acos(wx - n)}
   }
+}
   int t4(){
   function t4(){
   int256_t
