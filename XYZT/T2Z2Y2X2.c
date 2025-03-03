@@ -10,9 +10,9 @@ void z2(){
               break
         }
 void y2(){
-   for(float l = 0; l >= -4 && l <= 4 ; ++l || l--)
-       for(float m = 0; m >= -4 && m <= 4 ; ++m || m--)
-           for(float n = 0;n >= -4 && n <= 4  ; ++n || n--)
+   for(float l = 0; l >= -4 && l <= 4 ; --l || l++)
+       for(float m = 0; m >= -4 && m <= 4 ; --m || m++)
+           for(float n = 0;n >= -4 && n <= 4  ; --n || n++)
               continue
         }        
 void x2(){
