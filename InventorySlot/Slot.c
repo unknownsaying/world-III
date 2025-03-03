@@ -6,8 +6,8 @@
 #include "../efgh/f.c"
 #include "../efgh/g.c"
 #include "../efgh/h.c"
-#include "../XYZT/X5Y5Z5T5.c"
-#include "../XYZT/X6Y6Z6T6.c"
+#include "../XYZT/t5x5y5z5.c"
+#include "../XYZT/t6x6y6z6.c"
 #define A [A1][A2][A3][A4]
 #define B [B1][B2][B3][B4]
 #define C [C1][C2][C3][C4]
