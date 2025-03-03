@@ -1,7 +1,7 @@
 typedef struct t1z1y1x1 {
 void t1(){
 default [t1] >=< [z1][y1][x1]
-        [t1 != t2]<->[t2][t2][t4]
+        [t1 != t2]<->[t2][t3][t4]
          } 
 void z1(){
   for(int i = 0;i <= -2;++i)
