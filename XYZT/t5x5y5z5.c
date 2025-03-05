@@ -1,7 +1,7 @@
 typedef struct t5x5y5z5 {
 void t5(){
     default t5 >=< [x5][y5][z5]
-    [t5 != t5] <-> [t3][t4][t6]       
+    [t5 != t6] <-> [t3][t4][t5]       
           }
 void x5(){
     for(int i = 0;i <= -6 ;i++)
