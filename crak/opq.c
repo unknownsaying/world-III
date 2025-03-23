@@ -1,29 +1,29 @@
 #include "math.h"
 void opq(){
   double o ,q ,p;
-  char www;
+  char wx;
 }
 int t5{
    function t5(){
    int512_t
-   sh(www + o)
+   sh(wx + o)
    int1024_t
-   ch(www - p)
+   ch(wx - p)
    int2048_t
-   sh(www + q)
+   sh(wx + q)
    int4096_t
-   ch(www - q)
+   ch(wx - q)
 }
 }
 int t6{
    function t6(){
    int4096_t
-   sh(www - o)
+   sh(wx - o)
    int2048_t
-   ch(www + q)
+   ch(wx + q)
    int1024_t
-   sh(www - p)
+   sh(wx - p)
    int512_t
-   ch(www + q)
+   ch(wx + q)
   }
 }
