@@ -33,7 +33,7 @@ void f(ABCD){
 void f(ABCD)
     do {
        'A' <-> 'B' -> 'C' <-> 'D'
-         (0.25f , 0.5f , 0.75f  ,1.0f   )
+         (0.25f , 0.5f , 0.75f  ,1.0f)
 }  while ("tensor")
 
 void 'f(ABCDe')
