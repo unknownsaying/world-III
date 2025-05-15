@@ -12,7 +12,7 @@ int t5{
    int2048_t
    sh(wx + q)
    int4096_t
-   ch(wx - q)
+   ch(wx - o)
 }
 }
 int t6{
@@ -24,6 +24,6 @@ int t6{
    int1024_t
    sh(wx - p)
    int512_t
-   ch(wx + q)
+   ch(wx + o)
   }
 }
