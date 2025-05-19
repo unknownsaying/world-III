@@ -18,7 +18,7 @@ void Slot1(){
      do x5 * y5 * z5;
      int x5=("__ __ __ __")
      int y5=("|| || || ||")
-     int z5=("// // // //")
+     int z5=("// // \\ \\")
     if else
     for(x5=1;x5<=32;x5++)
     for(y5=1;y5<=32;y5++)
@@ -35,7 +35,7 @@ void Slot2(){
     do x6 * y6 * z6
      float x5("--- --- ---")
      float y5("!!! !!! !!!")
-     float z5("\\\ \\\ \\\'")
+     float z5("\\\ \|/ ///")
     if else
     for(x6=1;x6<=32;x6++)
     for(y6=1;y6<=32;y6++)
