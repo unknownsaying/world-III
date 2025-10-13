@@ -12,7 +12,7 @@
 #define B [B1][B2][B3][B4]
 #define C [C1][C2][C3][C4]
 #define D [D1][D2][D3][D4]
-typedef struct Slot{
+typedef struct Slot {
 void Slot1(){
      char x5,y5,z5;
      do x5 * y5 * z5;
@@ -49,10 +49,10 @@ void Slot2(){
 }
 void Slot3(){
     char t1, t2, t3, t4;
-     int t1 = (A A B B C C D D)
-     int t2 = (D D C C B B A A)
-     int t3 = (A B A B C C D D)
-     int t4 = (A B C D D C B A)
+     int t1 = ("A A B B C C D D")
+     int t2 = ("D D C C B B A A")
+     int t3 = ("A B A B C C D D")
+     int t4 = ("A B C D D C B A")
      do t1 * t2 * t3 * t4;
     for (t1 = 0; t1 <= 32; t1++)
     for (t2 = 0; t2 >= 32; t2--)
@@ -63,10 +63,10 @@ void Slot3(){
 }
 void Slot4(){
     char t5, t6, t7, t8;
-      int t5 = (A B A B C D C D)
-      int t6 = (D C D C B A B A)
-      int t7 = (e f g h || h g f e)
-      int t8 = (A B C D || D C B A)
+      int t5 = ("A B A B C D C D")
+      int t6 = ("D C D C B A B A")
+      int t7 = ("e f g h || h g f e")
+      int t8 = ("A B C D || D C B A")
       do t5 * t6 * t7 * t8;
     for(t5 = 0; -32 <= t5 <= 32; t5++ && t5--);
     for(t6 = 0; -64 <= t6 <= 64; t6++ && t6--);
@@ -77,10 +77,10 @@ void Slot4(){
 }
 void Slot5(){  
     char t9, t10 ,t11 ,t12;
-       int t9 = (A B C D || D C B A)
-       int t10 = (A B A B\\// C D C D)
-       int t11 = (A B |/ A B /| C D |/ D C)
-       int t12 = (C D && D C \\// A B && B A)
+       int t9 = ("A B C D || D C B A")
+       int t10 = ("A B A B\\// C D C D")
+       int t11 = ("A B |/ A B /| C D |/ D C")
+       int t12 = ("C D && D C \\// A B && B A")
        do t9 * t10 * t11 * t12;
     for(t9 = 0; -512 <= t9 <= 512; t9++ && t9--);
     for(t10 = 0; -1024 <= t10 <= 1024; t10-- && t10++);
