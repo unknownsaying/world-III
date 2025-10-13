@@ -1,5 +1,3 @@
-#include "../R/rst456.c"
-#include "../crak/lmn.c"
 void t7t8(){
     char www;
     double ceil , floor;
