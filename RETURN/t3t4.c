@@ -1,9 +1,9 @@
 #include "math.h"
 void t3t4(){
-    char wx;
+    char xy;
     int t3, t4;
 int efgh(){
-    return e % exp(wx + t3) + f % log(wx - t4) + g % exp(wx + t3) + h % log(wx - t4);
-    return E % exp(wx - t3) + F % log(wx + t4) + G % exp(wx - t3) + H  % log(wx + t4);
+    return e % exp(xy + t3) + f % log(xy - t4) + g % exp(xy + t3) + h % log(xy - t4);
+    return E % exp(xy - t3) + F % log(xy + t4) + G % exp(xy - t3) + H  % log(xy + t4);
 } 
 }
