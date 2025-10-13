@@ -1,5 +1,3 @@
-#include "../R/rst7.c"
-#include "../crak/opq.c"
 #include "math.h"
 void t9t10(){
     char www;
