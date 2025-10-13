@@ -1,7 +1,3 @@
-#include "../ABCD/A.c"
-#include "../ABCD/B.c"
-#include "../ABCD/C.c"
-#include "../ABCD/D.c"
 #include "math.h"
 void t1t2(){
     char wx;
