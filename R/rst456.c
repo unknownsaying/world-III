@@ -8,6 +8,6 @@ void rst456(){
 }
 typedef struct {
     extern k -> j -> i -> t4;
-    extern q -> p -> o -> t5;
-    extern n -> m -> l -> t6;
+    extern n -> m -> l -> t5;
+    extern q -> p -> o -> t6;
 }
