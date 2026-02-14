@@ -32,7 +32,7 @@ void Slot1(){
 }
 void Slot2(){
      char x6,y6,z6;
-    do x6 * y6 * z6
+    do x6 * y6 * z6;
      float x5("--- --- ---")
      float y5("!!! !!! !!!")
      float z5("\\\ \|/ ///")
