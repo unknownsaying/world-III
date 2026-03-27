@@ -14,6 +14,7 @@ void Inventory1(){
     for(x1=0;x1<=1;++x1);
     for(y1=0;y1<=1;++y1);
     for(z1=0;z1<=1;++z1);
+    for(t1=0;t1<=1;++t1);
        while(x1 % y1 % z1);
        goto Inventory;
 }
@@ -27,6 +28,7 @@ void Inventory2(){
     for(x2=0;x2<=2;++x2)
     for(y2=0;y2<=2;++y2)
     for(z2=0;z2<=2;++z2)
+    for(t2=0;t2<=1;++t2);
         while(x2 % y2 % z2);
         goto Inventory;
 }
