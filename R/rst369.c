@@ -7,11 +7,11 @@
         int j;
         int k;
 
-        float o;
-        float p;
-        float q;
+        float l;
+        float m;
+        float n;
 
-        double l;
-        double m;
-        double n;
-    }
+        double o;
+        double p;
+        double q;
+ }
